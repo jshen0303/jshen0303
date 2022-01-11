@@ -10,6 +10,7 @@ Cupertino, CA and am currently learning AI/ML.
 
 ## Communities
 * DS Club Member at UCSB.
+* USA Computing Olympiad Gold Division.
 
 ![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jshen0303&hide=["issues"]&show_icons=true)
 
