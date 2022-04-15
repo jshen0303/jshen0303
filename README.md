@@ -9,6 +9,7 @@ I'm currently an undergraduate student at the University of California, Santa Ba
 Cupertino, CA and am currently learning AI/ML.
 
 ## Communities
+* Salesforce Development Intern
 * DS Club Member at UCSB.
 * USA Computing Olympiad Gold Division.
 
