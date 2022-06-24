@@ -1,4 +1,4 @@
-## Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hello World 
 
 <img align='right' src='https://cutewallpaper.org/21/space-invaders-background/Space-Invaders-Alien-Transparent-Background-PNG-PNG-Arts.png' width='200"'>
 
