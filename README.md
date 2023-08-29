@@ -5,12 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jshen0303-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeff-shen-0303/)](https://www.linkedin.com/in/jeff-shen-0303/) 
 [![Gmail Badge](https://img.shields.io/badge/-jshen0303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jshen0303@gmail.com)](mailto:jshen0303@gmail.com)
 
-I'm currently an undergraduate student at the University of California, Santa Barbara studying Statistics and Data Science. I'm originally from 
-Cupertino, CA and am currently learning AI/ML.
+I'm currently an undergraduate student at the University of California, Berkeley studying Data Science and Computer Science. 
 
-## Communities
-* DS Club Member at UCSB.
-* USA Computing Olympiad Gold Division.
 
 ![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jshen0303&hide=["issues"]&show_icons=true)
 
