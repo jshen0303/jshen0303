@@ -7,9 +7,6 @@
 
 I'm currently an undergraduate student at the University of California, Berkeley studying Data Science and Computer Science. 
 
-
-![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jshen0303&hide=["issues"]&show_icons=true)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jshen0303)
 
 <!---
